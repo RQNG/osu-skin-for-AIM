@@ -13,10 +13,10 @@
 
 参与拼凑的皮肤和被选取的部分：
 
-* moonscape-normal    miss和good判定动画
-* #moonscape 2.0      转盘
-* owoTuna 1.4         音效
-* Kori's pick         光标
+* moonscape-normal      miss和good判定动画
+* moonscape 2.0         转盘
+* owoTuna 1.4           音效
+* Kori's pick           光标
 
 自己制作的部分：
 
